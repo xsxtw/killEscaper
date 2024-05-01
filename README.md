@@ -1,21 +1,21 @@
 # killEscaper Shellcode免杀生成器(Windows)
 ![](http://cdn.anyiblog.top/product/killescaper/cover/logo.png)
 
-Github项目： https://github.com/Anyyy111/killEscaper
+Github项目： https://github.com/xsxtw/killEscaper
 
 声明：本工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途以及盈利等目的，否则后果自行承担。
 
 ## 0x01 介绍
 
-作者: Anyyy
+作者: xsx
 
-博客: https://www.anyiblog.top
+博客: https://blog.xsx.tw
 
-本文地址：https://www.anyiblog.top/2023/06/08/20230608/
+本文地址：[https://blog.xsx.tw/tools/795/](https://blog.xsx.tw/tools/795/)
 
 killEscaper 是一个利用shellcode来制作免杀exe的工具，可结合渗透工具生成的shellcode二次转换exe，支持红队常用渗透工具CobaltStrike、metasploit等，测试可以绕过火绒、360等杀软，操作系统位数支持32、64位。
 
-当前处于测试阶段，任何问题欢迎向我发送邮件：anyiguys@qq.com 或向我提交issue
+当前处于测试阶段，任何问题欢迎向我发送邮件：hackxsxtw@gmail.com 或向我提交issue
 
 工具**仅支持Windows 且python版本需为python3.x**
 
@@ -36,7 +36,7 @@ killEscaper 是一个利用shellcode来制作免杀exe的工具，可结合渗�
 项目拉取：
 
 ```
-git clone https://github.com/Anyyy111/killEscaper
+git clone https://github.com/xsxtw/killEscaper
 ```
 
 模块安装：
